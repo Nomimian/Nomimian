@@ -89,7 +89,7 @@
 
 # 💼 Experience
 
-### Associate Software Engineer
+### Software Engineer
 
 🏢 Iyrix Technologies
 
