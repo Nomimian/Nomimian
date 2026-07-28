@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-💼 Associate Software Engineer
+💼 Software Engineer
 
 🚀 Passionate about building scalable Full Stack Web Applications.
 
