@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Muhammad Numan
 
-### Associate Software Engineer | Full Stack MERN Developer | Next.js | AWS | Docker | DevOps Enthusiast
+### Software Engineer | Full Stack MERN Developer | Next.js | AWS | Docker | DevOps Enthusiast
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Associate+Software+Engineer;Full+Stack+MERN+Developer;Next.js+Developer;Node.js+Backend+Developer;AWS+%7C+Docker+%7C+DevOps+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
